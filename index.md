@@ -1,1 +1,1 @@
-This repository is created for competetion of smart India Hackathon
+This repository is created for competetion of Kerala Road safety Hackathon
